@@ -9,8 +9,6 @@
 
 Production MLOps pipeline for predicting customer response to vehicle insurance offers. Implements end-to-end data engineering, model training, and automated deployment using GitHub Actions and AWS infrastructure.
 
-To check : http://18.215.144.178:5000/
-
 **Current Model Performance:**
 - Accuracy: 85.2%
 - AUC-ROC: 0.91
